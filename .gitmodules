@@ -1,0 +1,3 @@
+[submodule "fileinfo"]
+	path = fileinfo
+	url = https://github.com/sdushantha/fileinfo
