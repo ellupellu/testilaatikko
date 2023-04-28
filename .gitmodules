@@ -1,3 +1,12 @@
 [submodule "fileinfo"]
 	path = fileinfo
 	url = https://github.com/sdushantha/fileinfo
+[submodule "ctypes.sh"]
+	path = ctypes.sh
+	url = https://github.com/taviso/ctypes.sh
+[submodule "dom"]
+	path = dom
+	url = https://github.com/whatwg/dom
+[submodule "iconv-lite"]
+	path = iconv-lite
+	url = https://github.com/ashtuchkin/iconv-lite
