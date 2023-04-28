@@ -10,3 +10,9 @@
 [submodule "iconv-lite"]
 	path = iconv-lite
 	url = https://github.com/ashtuchkin/iconv-lite
+[submodule "polyfill-mbstring"]
+	path = polyfill-mbstring
+	url = https://github.com/symfony/polyfill-mbstring
+[submodule "XMLReader"]
+	path = XMLReader
+	url = https://github.com/amarcadet/XMLReader
